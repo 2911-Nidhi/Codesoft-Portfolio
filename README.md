@@ -38,6 +38,7 @@ A simple website created using HTML and CSS for a taco shop.
 ## Author
 
 **Nidhi**
+## Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link
-- GitHub: Add your GitHub profile link
+- LinkedIn: https://www.linkedin.com/in/nidhi-9a042a373/
+- GitHub: https://github.com/2911-Nidhi
